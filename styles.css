@@ -26,6 +26,13 @@
     height: 200px;
     background-color: darkgray;
     margin: 10px auto;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+.display-text{
+    font-size: 150px;
 }
 
 .rows{
